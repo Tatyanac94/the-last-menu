@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
           </nav>
           </header>
           {children}
-      <footer className="text-center text-gold">&copy; TC - My The Last Menu - Module 3</footer>
+      <footer className="text-center text-gold">&copy; TC - The Last Menu - Module 3</footer>
       </body>
     </html>
   );
